@@ -51,5 +51,5 @@ If a category appears as "NoCard" (when allowed), it means no card beats 0% for 
 
 # License
 
-MIT (or update as needed).
+MIT
 
