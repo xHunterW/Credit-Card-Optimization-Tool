@@ -31,7 +31,7 @@ pip install pulp pandas
 
 # Limitations (current)
 
-No sign-up bonuses or first-year fee waivers.
+No sign-up bonuses or first-year fee waivers (In development).
 
 No tier/cap modeling (e.g., “6% groceries up to $6k then 1%”) and no time slicing (quarters/months).
 
