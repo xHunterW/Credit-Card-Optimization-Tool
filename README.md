@@ -38,6 +38,8 @@ pip install pulp pandas
 
 No sign-up bonuses or first-year fee waivers (In development).
 
+No import sheet for credit card rates.
+
 No tier/cap modeling (e.g., “6% groceries up to $6k then 1%”) and no time slicing (quarters/months).
 
 No points valuations beyond explicit cash-back rates (no transfer partner modeling).
