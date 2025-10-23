@@ -11,7 +11,7 @@ Built as a Mixed-Integer Linear Program with [PuLP] and the CBC solver.
 # Features (current)
 
 Assigns one card per category to maximize cashback less annual fees. Optional 0% “NoCard” fallback so you’re not forced into a money-losing choice.
-Optional wallet cap (e.g., “pick at most 3 cards”).
+Optional wallet cap (e.g. “pick at most 3 cards”).
 
 # Outputs:
 
