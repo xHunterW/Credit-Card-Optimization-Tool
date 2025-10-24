@@ -4,9 +4,9 @@ This Credit Card Optimizer Tool allows users to optimize their credit-card stack
 Built as a Mixed-Integer Linear Program with [PuLP] and the CBC solver.
 
 # Current Personal Credit Card Stack
-- Amex Blue (Groceries, Gas)
+- Amex Blue (Groceries, Gas, Streaming [Disney+, Spotify, Netflix, etc])
 - Chase Sapphire Reserve (Dining, Travel)
-- Robinhood Gold Card (Utilities, Tuition, Entertainment, Shopping, Etc.)
+- Robinhood Gold Card (Utilities, Tuition, Entertainment, Shopping)
 
 # Features (current)
 
