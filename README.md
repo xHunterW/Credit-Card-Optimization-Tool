@@ -26,7 +26,7 @@ Not included (by design, for now): sign-up bonuses, first-year fee waivers, tier
 Python 3.9+
 
 Packages: 
-1. pulp (MILP modeling; will use a bundled CBC on most platforms)
+1. pulp 
 2. pandas (P&L table)
 
 ### Install:
