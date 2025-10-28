@@ -15,7 +15,7 @@ Optional wallet cap (e.g. “pick at most 3 cards”).
 
 # Outputs:
 
-Category → Card mapping, Net Value ($), and Unique Cards.
+Category -> Card mapping, Net Value ($), and Unique Cards.
 
 A per-card P&L table (spend, rewards, fee, net, break-even).
 
