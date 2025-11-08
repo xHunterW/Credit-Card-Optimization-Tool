@@ -43,7 +43,7 @@ No tier/cap modeling (e.g., “6% groceries up to $6k then 1%”) and no time sl
 
 No points valuations beyond explicit cash-back rates (no transfer partner modeling).
 
-Deterministic spending only (no uncertainty/Monte Carlo).
+Deterministic spending only (no uncertainty in spending categories).
 
 Single-route per category (no splitting a category across multiple cards).
 
