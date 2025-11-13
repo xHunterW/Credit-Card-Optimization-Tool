@@ -1,4 +1,4 @@
-# Credit-Card-Optimization-Tool
+# Credit Card Optimization Tool
 This Credit Card Optimizer Tool allows users to optimize their credit-card stack to maximize rewards and minimize annual fees based on your spending profile.
 
 Built as a Mixed-Integer Linear Program with [PuLP] and the CBC solver.
