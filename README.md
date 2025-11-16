@@ -33,7 +33,7 @@ Packages:
 pip install pulp pandas
 
 
-# Limitations (current)
+# Current Limitations
 
 No sign-up bonuses or first-year fee waivers (In development).
 
