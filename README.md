@@ -27,7 +27,7 @@ Python 3.9+
 
 Packages: 
 1. pulp 
-2. pandas (P&L table)
+2. pandas (for P&L table)
 
 ### Install:
 pip install pulp pandas
