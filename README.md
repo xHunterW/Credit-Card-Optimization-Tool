@@ -39,7 +39,7 @@ No sign-up bonuses or first-year fee waivers (In development).
 
 No import sheet for up to date credit card rates (In development for Chase/CapitalOne/Amex/Citi/Robinhood Cards).
 
-No tier/cap modeling (e.g., “6% groceries up to $6k then 1%”) and no time slicing (quarters/months).
+No tier/cap modeling (i.e., “6% groceries up to $6k then 1%”) and no time slicing (quarters/months).
 
 No points valuations beyond explicit cash-back rates (no transfer partner modeling).
 
