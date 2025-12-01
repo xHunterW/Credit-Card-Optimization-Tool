@@ -41,7 +41,7 @@ No import sheet for up to date credit card rates (In development for Chase/Capit
 
 No tier/cap modeling (i.e., “6% groceries up to $6k then 1%”) and no time slicing (quarters/months).
 
-No points valuations beyond explicit cash-back rates (no transfer partner modeling).
+No point valuations beyond explicit cash-back rates (no transfer partner modeling).
 
 Deterministic spending only (no uncertainty in spending categories).
 
