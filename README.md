@@ -53,7 +53,7 @@ Add a "Base": <rate> to a card to avoid sparse category maps.
 
 Use max_cards to explore a wallet efficiency frontier.
 
-If a category appears as "No Card" (when allowed), it means no card beats 0% for that category under your inputs.
+If a category appears as "No Card" (when allowed), it means no card beats 0% for that category under your given inputs.
 
 # License
 
