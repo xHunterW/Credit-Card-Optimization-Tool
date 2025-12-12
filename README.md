@@ -19,7 +19,7 @@ Category -> Card mapping, Net Value ($), and Unique Cards.
 
 A per-card P&L table (spend, rewards, fee, net, break-even).
 
-Not included (by design, for now): Sign-up bonuses, first-year annual fee waivers, points to USD valuations and credits through external collaborations (e.g. Lululemon credits w/ Amex).
+Not included (by design): Sign-up bonuses, first-year annual fee waivers, points to USD valuations and credits through external collaborations (e.g. Lululemon credits w/ Amex).
 
 # Requirements
 
