@@ -35,7 +35,7 @@ pip install pulp pandas
 
 # Current Limitations
 
-No sign-up bonuses or first-year fee waivers (In development).
+No sign-up bonuses or first-year fee waivers (in development).
 
 No import sheet for up to date credit card rates (In development for Chase/CapitalOne/Amex/Citi/Robinhood Cards).
 
