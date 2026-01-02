@@ -43,7 +43,7 @@ No tier/cap modeling (i.e., “6% groceries up to $6k then 1%”) and no time sl
 
 No point valuations beyond explicit cash-back rates (no transfer partner modeling).
 
-Deterministic spending only (no uncertainty in spending categories).
+Deterministic spending only (no uncertainty bounds in spending categories).
 
 Single-route per category (no splitting a category across multiple cards).
 
